@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itisitis.github.io/docs-w1cvsv/sitemap.xml
